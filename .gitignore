@@ -13,3 +13,4 @@ vignettes/*.pdf
 megamill.Rproj
 # Data directory
 data/*
+.RData
